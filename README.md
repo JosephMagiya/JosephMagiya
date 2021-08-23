@@ -8,4 +8,5 @@
 - 📫 How to reach me: www.linkedin.com/in/joseph-magiya
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love vegetables.
+- 😃 Recent Fun Project - [Talent Search](https://talentsearch1.herokuapp.com/)
 
