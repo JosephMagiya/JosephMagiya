@@ -7,6 +7,9 @@
 - 📫 How to reach me: www.linkedin.com/in/joseph-magiya
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love vegetables.
-- 😃 Recent Fun Project - [Talent Search](https://talentsearch1.herokuapp.com/)
+- 👷 Recent Projects 
+     - [2022 Kenyan Election Tweets & Sentiments](https://electionke22.herokuapp.com/)
+     - [Iris Flower Classifier App](https://iris-classifier--app.herokuapp.com/)
+     - [Talent Search](https://talentsearch1.herokuapp.com/)
 
 <!-- - 🤔 I’m looking for help with Mobile App Development -->
