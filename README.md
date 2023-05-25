@@ -4,7 +4,6 @@
 - 🌱 I’m currently improving my Software Engineering, Machine Learning and Statistics skills and knowledge.
 - 👯 I’m looking to collaborate on projects and any other fun projects.
 - 💬 Ask me about Data Science, Machine Learning & AI
-<!-- - 📫 How to reach me: www.linkedin.com/in/joseph-magiya -->
 - ⚡ Fun fact: I love vegetables.
 - 👷 Recent Projects 
      - [2022 Kenyan Election Tweets & Sentiments](https://electionke22.herokuapp.com/)
