@@ -8,15 +8,9 @@ I'm deeply passionate about Data Science, Machine Learning, and AI, and I'm eage
 - 🧠 **Specializations**: End to end development, deployment & monitoring of ML models.
 - ☁️ **Cloud Services**: Experienced with AWS & GCP.
 - 🛠️ **Infrastructure as Code**: Proficient in Terraform for infrastructure provisioning and management.
-
-
-## 🚀 Current Focus
-
-- 🤖 **Learning & Experimenting**: Currently exploring open-source Large Language Models (LLMs) and their applications.
-
 <details>
    <summary>
-      <h2><strong>🛠️ Additional Tech Stack</strong></h2>
+      <strong>🛠️ Additional Tech Stack</strong>
    </summary>
    <br>
    - **Data Collection and Storage**:
@@ -45,6 +39,10 @@ I'm deeply passionate about Data Science, Machine Learning, and AI, and I'm eage
       - **Infrastructure**: AWS, GCP
       - **Managed Services**: AWS SageMaker, GCP AI Platform
 </details>
+
+## 🚀 Current Focus
+
+- 🤖 **Learning & Experimenting**: Currently exploring open-source Large Language Models (LLMs) and their applications.
 
 ## 👷 Recent Projects 
 
