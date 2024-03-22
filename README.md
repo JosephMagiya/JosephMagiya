@@ -14,33 +14,37 @@ I'm deeply passionate about Data Science, Machine Learning, and AI, and I'm eage
 
 - 🤖 **Learning & Experimenting**: Currently exploring open-source Large Language Models (LLMs) and their applications.
 
-## 🛠️ Additional Tech Stack
+<details>
+   <summary>
+      <h2><strong>🛠️ Additional Tech Stack</strong></h2>
+   </summary>
+   <br>
+   - **Data Collection and Storage**:
+      - **SQL Databases**: MySQL, PostgreSQL, SQLite
+      - **NoSQL Databases**: MongoDB
+      - **Data Lakes**: Amazon S3, Google Cloud Storage
 
-- **Data Collection and Storage**:
-   - **SQL Databases**: MySQL, PostgreSQL, SQLite
-   - **NoSQL Databases**: MongoDB
-   - **Data Lakes**: Amazon S3, Google Cloud Storage
-
-- **Data Processing and ETL**:
-   - **ETL Tools**: dbt
-   - **Data Processing Frameworks**: Pandas, Polars
-
-- **Machine Learning and Data Analysis**:
-   - **Machine Learning Libraries**: Scikit-learn, PyTorch
-   - **Statistical Tools**: Jupyter Notebooks
-
-- **Data Visualization**:
-   - **Dashboarding Tools**: Tableau, Power BI, Grafana
-   - **Visualization Libraries**: Matplotlib, Seaborn, Plotly
-
-- **Model Deployment and Monitoring**:
-   - **Deployment Platforms**: AWS Sagemaker, Google's Vertex Ai
-   - **Containerization**: Docker
-   - **Model Monitoring**: Evidently
-
-- **Cloud Platforms**:
-   - **Infrastructure**: AWS, GCP
-   - **Managed Services**: AWS SageMaker, GCP AI Platform
+   - **Data Processing and ETL**:
+      - **ETL Tools**: dbt
+      - **Data Processing Frameworks**: Pandas, Polars
+   
+   - **Machine Learning and Data Analysis**:
+      - **Machine Learning Libraries**: Scikit-learn, PyTorch
+      - **Statistical Tools**: Jupyter Notebooks
+   
+   - **Data Visualization**:
+      - **Dashboarding Tools**: Tableau, Power BI, Grafana
+      - **Visualization Libraries**: Matplotlib, Seaborn, Plotly
+   
+   - **Model Deployment and Monitoring**:
+      - **Deployment Platforms**: AWS Sagemaker, Google's Vertex Ai
+      - **Containerization**: Docker
+      - **Model Monitoring**: Evidently
+   
+   - **Cloud Platforms**:
+      - **Infrastructure**: AWS, GCP
+      - **Managed Services**: AWS SageMaker, GCP AI Platform
+</details>
 
 ## 👷 Recent Projects 
 
